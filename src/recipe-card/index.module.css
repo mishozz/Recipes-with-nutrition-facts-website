@@ -1,0 +1,46 @@
+.card{
+    min-width: 18rem !important;
+    max-width: 18rem !important;
+    margin: 1.5rem;
+    border-radius: 2rem !important;
+}
+
+.card-img-top{
+    border-radius: 2rem !important;
+}
+
+.product-card-ul {
+    list-style: none ;
+}
+
+.product-card-li {
+    font-size: 1.1rem;
+}
+
+.card-body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.product-card-btn {
+    border-radius: 1.1rem !important;
+}
+
+.product-card-btn a{
+    text-decoration: none !important;
+    border-radius: 1.1rem !important;
+}
+
+.product-card-link {
+    color: white;
+}
+
+.product-card-link:hover {
+    color: white;
+}
+
+.card-title{
+    width: max-content;
+}

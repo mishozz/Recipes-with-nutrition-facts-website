@@ -1,0 +1,11 @@
+.calories-nutrients-container {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.calories-nutrients-ul {
+    list-style: none;
+}

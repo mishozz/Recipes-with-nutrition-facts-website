@@ -1,0 +1,14 @@
+@media only screen and (max-width: 500px){
+    .d-block {
+        height: 8rem;
+    }
+}
+
+.carousel {
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-top-color: black;
+    border-top-width: 1px;
+}
